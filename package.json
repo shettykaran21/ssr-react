@@ -13,13 +13,16 @@
     "axios": "^0.21.1",
     "compression": "^1.7.4",
     "concurrently": "^6.2.0",
+    "core-js": "^3.15.2",
     "express": "^4.17.1",
     "lodash": "^4.17.21",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
+    "react-redux": "^7.2.4",
     "react-router-dom": "^5.2.0",
     "redux": "^4.1.0",
     "redux-thunk": "^2.3.0",
+    "regenerator-runtime": "^0.13.7",
     "serialize-javascript": "^6.0.0"
   },
   "devDependencies": {
